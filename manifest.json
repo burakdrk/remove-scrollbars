@@ -1,0 +1,10 @@
+{
+	"name": "Remove Scrollbars",
+	"manifest_version": 3,
+	"version": "1.0",
+	"description": "Simple CSS to remove scrollbars.",
+	"content_scripts": [	{
+			"matches": ["<all_urls>"],
+			"css": ["scroll.css"]
+	}	]
+}
