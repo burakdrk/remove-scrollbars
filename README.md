@@ -1,2 +1,2 @@
 # remove-scrollbars
-Chrome extension to remove the ugly windows scrollbars
+OH!Chrome extension to remove the ugly windows scrollbars
